@@ -16,7 +16,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #d2a67a; /* Background color */
-    padding: 15px 20px;
+    padding: 20px 20px;
 }
 
 .navbar-logo {
@@ -100,6 +100,30 @@ body {
     margin-bottom: 10px;
     font-size: 2.5em;
     margin-top:-200px
+}
+button {
+    font-family: "Alegreya", serif;
+    font-style: normal;
+    font-size: 1.5em;
+    padding: 40px 40px;
+    background-color: #d2a67a;
+    color: white;
+    border: none;
+    border-radius:60px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #391912;
+}
+
+button:focus {
+    outline: 2px solid #d2a67a;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
 }
 
 
