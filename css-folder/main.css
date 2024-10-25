@@ -218,7 +218,10 @@ body {
   transform: translate(0, 5%);
 }
 
-
+/*This is the section for our footer*/
+.footer{
+    background-color: #d2a67a; /* Background color */
+}
 
 
 
