@@ -222,6 +222,10 @@ body {
 .footer{
     background-color: #d2a67a; /* Background color */
 }
+.footer-text{
+    text-align: center;
+    padding: 5px 5px;
+}
 
 
 
