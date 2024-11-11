@@ -283,7 +283,16 @@ body {
 }
 .button-86 {
     margin-left:20px;
-  }
+}
+.button-86::before {
+    background: #391912;
+}
+
+  /*Footer section*/
+.footer{
+    background-color: #391912; /* Background color */
+}
+
 
 }
 
