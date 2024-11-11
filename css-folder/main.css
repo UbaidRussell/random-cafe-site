@@ -269,6 +269,22 @@ body {
 }
 
 
+/*Final section*/
+.final-section-text{
+    margin-bottom: 10px;
+    margin-left:20px;
+    margin-top:-200px;
+    font-size: 3.5em;
+}
+.final-section-subtext{
+    margin-bottom: 20px;
+    margin-left:20px;
+    font-size: 3.5em;
+}
+.button-86 {
+    margin-left:20px;
+  }
+
 }
 
 
