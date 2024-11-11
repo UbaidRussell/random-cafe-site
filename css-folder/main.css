@@ -265,26 +265,9 @@ body {
     margin-bottom: 20px;
 }
 .second-button {
-    font-family: "Alegreya", serif;
-    font-style: normal;
-    font-size: 1.5em;
-    padding: 40px 40px;
-    background-color: #d2a67a;
-    color: white;
-    border: none;
-    border-radius:60px;
-    cursor: pointer;
     margin-left:20px;
 }
 
-.second-button:hover {
-    background-color: #391912;
-}
-
-.second-button:disabled {
-    background-color: #cccccc;
-    cursor: not-allowed;
-}
 
 }
 
