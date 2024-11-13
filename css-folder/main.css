@@ -230,8 +230,6 @@ body {
 
 
 /*Media Queries*/
-
-/* Medium devices (up to 768px) */
 @media (max-width: 768px) {
     
 .navbar-menu {
@@ -296,5 +294,13 @@ body {
 
 }
 
+
+/*Media query for horizontal devices*/
+@media (orientation: landscape) {
+    /* Styles for landscape mode */
+
+
+    
+  }
 
 
